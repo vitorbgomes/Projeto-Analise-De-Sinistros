@@ -15,21 +15,6 @@ Criar uma estratégia de dados para o setor privado (seguradoras, transportadora
 
 ---
 
-## 📂 Estrutura do Projeto
-
-📁 /projeto-sinistros/
-├── 📄 relatorio_final.md # Documento dissertativo com problema, justificativa e insights
-├── 🧠 script_analise_completa.py # Script Python com EDA, ML e exportação
-├── 📊 importancia_variaveis_modelo.csv # Tabela com ranking das variáveis mais importantes
-├── 📈 importancia_variaveis.png # Gráfico de importância gerado pelo modelo
-├── 📁 dados/
-│ ├── acidentes_2023.zip # Arquivo baixado da PRF (via gdown)
-│ └── dados_sinistros_para_looker.xlsx # Planilha final pronta para BI
-├── 📸 dashboard_looker_studio.png # Print ilustrativo do dashboard (BI)
-
-
----
-
 ## 📥 Fonte dos Dados
 
 - Dados públicos da PRF (Polícia Rodoviária Federal)
