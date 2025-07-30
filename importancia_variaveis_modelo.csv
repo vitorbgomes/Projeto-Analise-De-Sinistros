@@ -1,0 +1,603 @@
+﻿variavel,importancia
+tipo_acidente_Colisão frontal,0.04815229299224517
+condicao_metereologica_Céu Claro,0.03585506737345683
+tipo_pista_Simples,0.03389523794434056
+dia_semana_quinta-feira,0.02936336058467927
+dia_semana_sábado,0.028566734665962212
+condicao_metereologica_Nublado,0.028551816009491884
+tracado_via_Reta,0.026969575904013283
+tipo_acidente_Atropelamento de Pedestre,0.02675951232183104
+dia_semana_quarta-feira,0.02653821087596921
+dia_semana_domingo,0.026242016391788248
+dia_semana_sexta-feira,0.025834002891417462
+dia_semana_segunda-feira,0.025141903737642916
+tracado_via_Declive;Reta,0.024650504252370174
+fase_dia_Pleno dia,0.023996677065093945
+condicao_metereologica_Chuva,0.02370723774866207
+tipo_pista_Dupla,0.023314872790005915
+fase_dia_Plena Noite,0.021808791782582347
+tracado_via_Reta;Declive,0.021075433852200252
+tracado_via_Curva,0.021005860573969064
+dia_semana_terça-feira,0.020866492310700153
+tracado_via_Reta;Aclive,0.019698465404270504
+tipo_acidente_Colisão traseira,0.01747578279396261
+condicao_metereologica_Garoa/Chuvisco,0.01731318296320534
+tracado_via_Curva;Declive,0.017147966098234206
+tipo_acidente_Saída de leito carroçável,0.015596413468338788
+tipo_acidente_Colisão com objeto,0.014905432220886425
+tipo_acidente_Tombamento,0.014055706806971435
+fase_dia_Amanhecer,0.013839574168829997
+tipo_acidente_Queda de ocupante de veículo,0.013714578432133168
+condicao_metereologica_Nevoeiro/Neblina,0.013379771745354051
+condicao_metereologica_Sol,0.012835365295825348
+fase_dia_Anoitecer,0.012804156630195827
+tipo_acidente_Colisão transversal,0.012756295021700639
+tracado_via_Aclive;Reta,0.011749378470452206
+tracado_via_Declive;Curva,0.011366223480667143
+tipo_acidente_Capotamento,0.011203093181303045
+tipo_acidente_Colisão lateral mesmo sentido,0.011124856216678716
+tracado_via_Declive,0.010478389995465139
+tipo_acidente_Colisão lateral sentido oposto,0.00979910729647184
+tipo_pista_Múltipla,0.00908083415777677
+tracado_via_Curva;Aclive,0.008310195968650751
+tracado_via_Aclive,0.00768587338051675
+tipo_acidente_Derramamento de carga,0.007378455895672883
+tracado_via_Interseção de Vias,0.007350357436005714
+tipo_acidente_Engavetamento,0.006835772366664651
+condicao_metereologica_Ignorado,0.006780553622723661
+tracado_via_Aclive;Curva,0.006716211392439687
+tracado_via_Reta;Ponte,0.006697852827459106
+tracado_via_Reta;Interseção de Vias,0.006595397134871583
+tipo_acidente_Incêndio,0.006456642335291973
+tracado_via_Reta;Em Obras,0.005766798291810518
+tracado_via_Retorno Regulamentado;Reta,0.004688871617764473
+tracado_via_Interseção de Vias;Curva;Aclive,0.004679536116964763
+tracado_via_Interseção de Vias;Reta,0.004529129413118937
+tracado_via_Em Obras;Reta,0.0039016920669997374
+tracado_via_Ponte;Reta,0.003883771534572699
+tracado_via_Curva;Em Obras;Declive,0.0036588142515649683
+tracado_via_Rotatória,0.0034962553418380494
+tracado_via_Reta;Em Obras;Ponte;Declive;Desvio Temporário,0.003438692519961816
+tracado_via_Reta;Desvio Temporário;Em Obras,0.003432607186882532
+tracado_via_Curva;Em Obras,0.002974647062234845
+tipo_acidente_Eventos atípicos,0.002896458476862499
+tipo_acidente_Atropelamento de Animal,0.0026737271716080996
+tracado_via_Reta;Retorno Regulamentado,0.0025187999192401323
+tracado_via_Curva;Declive;Em Obras,0.002320628902939286
+tracado_via_Curva;Desvio Temporário,0.002229533408855378
+tracado_via_Ponte,0.002219499721627232
+tracado_via_Interseção de Vias;Curva,0.0022170761179048214
+tracado_via_Rotatória;Reta,0.0020565353342332456
+tracado_via_Curva;Declive;Ponte,0.0020292664325135177
+tracado_via_Reta;Rotatória,0.001966308650317694
+tracado_via_Retorno Regulamentado,0.0018014193340151852
+tracado_via_Reta;Em Obras;Ponte,0.001742627112692275
+tracado_via_Reta;Interseção de Vias;Aclive,0.00170936892911337
+tracado_via_Reta;Viaduto,0.0016506254260130859
+tracado_via_Curva;Interseção de Vias,0.0014538232565791981
+tracado_via_Em Obras,0.0010927360370967783
+tracado_via_Viaduto,0.0010737371754981964
+tracado_via_Reta;Em Obras;Aclive;Desvio Temporário,0.0010443969601822399
+tracado_via_Interseção de Vias;Reta;Retorno Regulamentado,0.0009861580196435927
+tracado_via_Reta;Em Obras;Aclive;Interseção de Vias,0.0009061117761184643
+tracado_via_Em Obras;Declive;Reta,0.0008890094125272685
+tracado_via_Reta;Em Obras;Declive,0.0008883496993712036
+tracado_via_Curva;Retorno Regulamentado,0.0008804300042949785
+tracado_via_Reta;Declive;Interseção de Vias,0.000807167890649519
+tracado_via_Interseção de Vias;Aclive,0.000798961484260567
+tracado_via_Em Obras;Ponte;Reta,0.0007096181819007284
+tracado_via_Reta;Aclive;Em Obras,0.0006992512018255296
+tracado_via_Em Obras;Reta;Desvio Temporário,0.0006958235704602501
+tracado_via_Aclive;Reta;Em Obras,0.0006828340411126663
+tracado_via_Aclive;Interseção de Vias,0.0006120601286771286
+tracado_via_Reta;Em Obras;Aclive,0.0006082452613639131
+tracado_via_Interseção de Vias;Aclive;Reta,0.0006023829790262773
+tracado_via_Declive;Interseção de Vias;Reta,0.0005479966680104614
+tracado_via_Ponte;Reta;Declive,0.0005458282555912767
+tracado_via_Reta;Declive;Túnel,0.0005257058610040836
+tracado_via_Reta;Interseção de Vias;Retorno Regulamentado,0.0005256505056059096
+tracado_via_Reta;Declive;Ponte,0.0005014375420082387
+tracado_via_Curva;Retorno Regulamentado;Aclive,0.0004911326965226199
+tracado_via_Viaduto;Reta,0.0004539190954918792
+condicao_metereologica_Vento,0.000450945463889476
+tracado_via_Curva;Viaduto;Aclive,0.0004444519676281607
+tracado_via_Desvio Temporário,0.0004330943203344453
+tracado_via_Aclive;Reta;Interseção de Vias,0.0004289155108685251
+tracado_via_Declive;Em Obras;Curva,0.0004090759231921813
+tracado_via_Reta;Declive;Em Obras,0.00040062376463881956
+tracado_via_Reta;Retorno Regulamentado;Interseção de Vias;Viaduto;Em Obras,0.000400373242219679
+tracado_via_Rotatória;Reta;Interseção de Vias,0.00039491900478328784
+tracado_via_Aclive;Reta;Retorno Regulamentado,0.00038101353840818596
+tracado_via_Reta;Interseção de Vias;Rotatória,0.0003765901854867345
+tracado_via_Reta;Rotatória;Interseção de Vias,0.00037541153292052176
+tracado_via_Curva;Viaduto,0.00035683911157217133
+tracado_via_Em Obras;Reta;Declive,0.00034669987232470515
+tracado_via_Em Obras;Reta;Aclive,0.0003384081077553629
+tracado_via_Curva;Interseção de Vias;Ponte,0.0003341727187056391
+tracado_via_Ponte;Curva,0.00032782904992551334
+tracado_via_Interseção de Vias;Curva;Declive,0.0003276312117215388
+tracado_via_Rotatória;Interseção de Vias;Reta,0.0003107988608491234
+tracado_via_Declive;Em Obras;Reta,0.000304726332025791
+tracado_via_Interseção de Vias;Rotatória,0.00030176338752478156
+tracado_via_Retorno Regulamentado;Interseção de Vias,0.0002916932353156296
+tracado_via_Reta;Ponte;Em Obras,0.0002889999439267082
+tracado_via_Aclive;Em Obras,0.00028313257338090646
+tracado_via_Reta;Interseção de Vias;Declive,0.000279894472507591
+tracado_via_Rotatória;Curva,0.00027664434372090996
+tracado_via_Declive;Reta;Interseção de Vias,0.0002735906044370918
+tracado_via_Interseção de Vias;Rotatória;Reta,0.0002686098464163556
+tracado_via_Curva;Interseção de Vias;Declive,0.0002636596898536349
+tracado_via_Curva;Rotatória,0.0002603572620183481
+tracado_via_Em Obras;Curva,0.00025943675944575063
+tracado_via_Interseção de Vias;Retorno Regulamentado;Reta,0.0002483129625195554
+tracado_via_Desvio Temporário;Em Obras,0.00024636531052709575
+tracado_via_Reta;Em Obras;Desvio Temporário,0.0002379591638425135
+tracado_via_Declive;Interseção de Vias,0.0002081391038126555
+tracado_via_Curva;Declive;Viaduto,0.00020222299769484046
+tracado_via_Declive;Curva;Interseção de Vias,0.00019539030818902238
+tracado_via_Curva;Ponte,0.000195192571919239
+tracado_via_Declive;Em Obras,0.0001919791715477798
+tracado_via_Declive;Reta;Ponte,0.00018511007243934296
+tracado_via_Retorno Regulamentado;Reta;Interseção de Vias,0.00018292538135689603
+tracado_via_Reta;Retorno Regulamentado;Interseção de Vias,0.00018035163615549816
+tracado_via_Viaduto;Aclive;Reta,0.0001784274072197052
+tracado_via_Viaduto;Curva,0.00017649874108813916
+tracado_via_Interseção de Vias;Viaduto,0.0001753857551868148
+tracado_via_Declive;Reta;Em Obras,0.00017350197427493924
+tracado_via_Declive;Em Obras;Reta;Desvio Temporário,0.00017068304910526185
+tracado_via_Em Obras;Ponte,0.0001683496884768689
+tracado_via_Reta;Viaduto;Aclive,0.0001663791263516411
+tracado_via_Reta;Aclive;Viaduto,0.00015918733735583042
+tracado_via_Aclive;Em Obras;Reta,0.00015668218561806733
+tracado_via_Declive;Retorno Regulamentado;Reta,0.00015132208347835217
+tracado_via_Declive;Interseção de Vias;Em Obras,0.00014342059521062661
+tracado_via_Ponte;Curva;Declive,0.00014304169275475488
+tracado_via_Declive;Curva;Ponte,0.00014255000508461163
+tracado_via_Desvio Temporário;Curva;Em Obras,0.00013747853954000955
+tracado_via_Aclive;Curva;Interseção de Vias,0.0001338401758166737
+tracado_via_Curva;Declive;Interseção de Vias,0.00013152239900254646
+tracado_via_Retorno Regulamentado;Curva,0.0001259370409343188
+tracado_via_Retorno Regulamentado;Interseção de Vias;Aclive;Reta;Em Obras,0.00012587604819164105
+tracado_via_Rotatória;Interseção de Vias,0.00012286057273540828
+tracado_via_Interseção de Vias;Reta;Rotatória,0.00012006025682234704
+tracado_via_Aclive;Ponte;Reta,0.00011902475650132159
+tracado_via_Em Obras;Declive,0.00011701791342260403
+tracado_via_Em Obras;Viaduto,0.00011453323036584415
+tracado_via_Em Obras;Interseção de Vias;Reta,0.00011418487967232465
+tracado_via_Reta;Em Obras;Viaduto,0.00011368381613581837
+tracado_via_Reta;Aclive;Desvio Temporário,0.0001125716777517596
+tracado_via_Curva;Aclive;Em Obras,0.00010736422954906577
+tracado_via_Curva;Interseção de Vias;Rotatória,0.00010651085137532634
+tracado_via_Reta;Declive;Viaduto,0.00010458813934744463
+tracado_via_Curva;Ponte;Declive,0.00010091284205489808
+tracado_via_Em Obras;Curva;Desvio Temporário,9.907976959518317e-05
+tracado_via_Viaduto;Reta;Em Obras,9.772016413643142e-05
+tracado_via_Viaduto;Declive,9.503623518591483e-05
+tracado_via_Reta;Aclive;Interseção de Vias,9.322154341594884e-05
+tracado_via_Ponte;Declive,9.020199053864941e-05
+tracado_via_Declive;Viaduto;Curva,8.98467951629792e-05
+tracado_via_Reta;Declive;Rotatória,8.947287520766205e-05
+tracado_via_Declive;Curva;Viaduto,8.904257102476635e-05
+tracado_via_Em Obras;Declive;Curva,8.763980591015052e-05
+tracado_via_Rotatória;Viaduto,8.713844797463992e-05
+tracado_via_Reta;Ponte;Declive,8.265132799689124e-05
+tracado_via_Desvio Temporário;Reta;Em Obras,8.079953256786551e-05
+tracado_via_Interseção de Vias;Declive,7.90516288119549e-05
+tracado_via_Desvio Temporário;Viaduto;Reta;Em Obras,7.87166776218426e-05
+tracado_via_Curva;Aclive;Interseção de Vias,7.63896490978483e-05
+tracado_via_Interseção de Vias;Túnel,7.310555355396689e-05
+tracado_via_Retorno Regulamentado;Interseção de Vias;Reta,7.298444133313515e-05
+tracado_via_Desvio Temporário;Em Obras;Declive,7.238534035910621e-05
+tracado_via_Interseção de Vias;Reta;Viaduto,7.120115155563338e-05
+tracado_via_Interseção de Vias;Retorno Regulamentado,7.059280321587106e-05
+tracado_via_Em Obras;Desvio Temporário,6.725595973556121e-05
+tracado_via_Em Obras;Desvio Temporário;Reta,6.647388244867553e-05
+tracado_via_Interseção de Vias;Em Obras,6.414061892941078e-05
+tracado_via_Reta;Ponte;Aclive,6.288178590972358e-05
+tracado_via_Reta;Viaduto;Em Obras,6.166833823863646e-05
+tracado_via_Aclive;Curva;Viaduto,6.142966426587634e-05
+tracado_via_Declive;Viaduto,5.8720636569826135e-05
+tracado_via_Em Obras;Rotatória,5.830715305539742e-05
+tracado_via_Interseção de Vias;Curva;Retorno Regulamentado,5.69230623236596e-05
+tracado_via_Aclive;Curva;Em Obras,5.689207863306532e-05
+tracado_via_Curva;Aclive;Viaduto,5.664922059175073e-05
+tracado_via_Interseção de Vias;Em Obras;Reta,5.6249962248826284e-05
+tracado_via_Reta;Declive;Retorno Regulamentado,5.587559567767069e-05
+tracado_via_Viaduto;Interseção de Vias,5.3330550057259506e-05
+tracado_via_Aclive;Reta;Viaduto,5.275435740147307e-05
+tracado_via_Declive;Rotatória,5.2300799202405695e-05
+tracado_via_Rotatória;Retorno Regulamentado,5.185324663480053e-05
+tracado_via_Reta;Interseção de Vias;Em Obras,5.075498077681616e-05
+tracado_via_Reta;Interseção de Vias;Viaduto,5.0341811422945766e-05
+tracado_via_Reta;Desvio Temporário,5.030831301868938e-05
+tracado_via_Declive;Ponte;Reta,4.828945043253498e-05
+tracado_via_Interseção de Vias;Declive;Reta,4.748081583298812e-05
+tracado_via_Interseção de Vias;Declive;Retorno Regulamentado,4.744803393846758e-05
+tracado_via_Em Obras;Aclive;Reta,4.380321452204829e-05
+tracado_via_Curva;Desvio Temporário;Aclive,4.343883618280611e-05
+tracado_via_Reta;Em Obras;Interseção de Vias,4.170531942171911e-05
+tracado_via_Viaduto;Reta;Aclive,4.151280544201037e-05
+tracado_via_Curva;Declive;Retorno Regulamentado,4.048352114234016e-05
+tracado_via_Curva;Interseção de Vias;Retorno Regulamentado,4.045270815176814e-05
+tracado_via_Aclive;Rotatória,4.0215330893795024e-05
+tracado_via_Ponte;Curva;Aclive,3.983525693751818e-05
+tracado_via_Retorno Regulamentado;Rotatória,3.902659584481778e-05
+tracado_via_Reta;Retorno Regulamentado;Aclive,3.765460309961095e-05
+tracado_via_Ponte;Declive;Curva,3.692652978439704e-05
+tracado_via_Curva;Rotatória;Interseção de Vias,3.658583236420225e-05
+tracado_via_Aclive;Retorno Regulamentado;Curva,3.534755460378718e-05
+tracado_via_Curva;Viaduto;Declive,3.512015187110918e-05
+tracado_via_Curva;Ponte;Interseção de Vias;Aclive;Em Obras;Viaduto,3.471517891854429e-05
+tracado_via_Rotatória;Interseção de Vias;Viaduto,3.437793551818069e-05
+tracado_via_Reta;Túnel,3.263404233400482e-05
+tracado_via_Interseção de Vias;Curva;Rotatória,3.254240645575012e-05
+tracado_via_Declive;Rotatória;Curva,3.240644252265079e-05
+tracado_via_Declive;Retorno Regulamentado,3.187545658818441e-05
+tracado_via_Interseção de Vias;Aclive;Curva,3.1874336221781096e-05
+tracado_via_Declive;Desvio Temporário;Em Obras,3.1705767343934164e-05
+tracado_via_Interseção de Vias;Em Obras;Curva;Aclive,3.1560683383206024e-05
+tracado_via_Retorno Regulamentado;Rotatória;Reta,3.113129028613156e-05
+tracado_via_Curva;Em Obras;Aclive,3.1129259315280586e-05
+tracado_via_Viaduto;Reta;Retorno Regulamentado,3.1096449141833726e-05
+tracado_via_Interseção de Vias;Declive;Curva,3.090699931776986e-05
+tracado_via_Viaduto;Retorno Regulamentado,3.058623453094045e-05
+tracado_via_Aclive;Interseção de Vias;Reta,3.032051488084997e-05
+tracado_via_Aclive;Viaduto;Reta,2.9680734368348728e-05
+tracado_via_Reta;Viaduto;Declive,2.9524068696569257e-05
+tracado_via_Declive;Interseção de Vias;Curva,2.9227925823965333e-05
+tracado_via_Declive;Curva;Retorno Regulamentado,2.9083157685662317e-05
+tracado_via_Rotatória;Declive,2.905941483744886e-05
+tracado_via_Retorno Regulamentado;Aclive;Viaduto,2.8879183888498344e-05
+tracado_via_Retorno Regulamentado;Interseção de Vias;Reta;Viaduto;Declive,2.8542824187293672e-05
+tracado_via_Aclive;Curva;Retorno Regulamentado,2.8444507386349956e-05
+tracado_via_Interseção de Vias;Reta;Retorno Regulamentado;Declive,2.7266226143672432e-05
+tracado_via_Rotatória;Em Obras,2.7211198905785618e-05
+tracado_via_Curva;Desvio Temporário;Em Obras,2.7082690824033594e-05
+tracado_via_Aclive;Desvio Temporário;Curva,2.6981908811870338e-05
+tracado_via_Interseção de Vias;Em Obras;Rotatória;Reta,2.6932799257337518e-05
+tracado_via_Interseção de Vias;Reta;Declive,2.6846713328864537e-05
+tracado_via_Desvio Temporário;Declive;Reta;Em Obras,2.66962084609549e-05
+tracado_via_Rotatória;Aclive;Interseção de Vias,2.6265663986330236e-05
+tracado_via_Viaduto;Declive;Curva;Em Obras,2.6200220583141728e-05
+tracado_via_Em Obras;Curva;Declive,2.59334926016505e-05
+tracado_via_Desvio Temporário;Em Obras;Aclive,2.5819450868532272e-05
+tracado_via_Viaduto;Interseção de Vias;Rotatória,2.532850816616507e-05
+tracado_via_Aclive;Viaduto,2.4867141109443125e-05
+tracado_via_Curva;Declive;Rotatória;Interseção de Vias,2.4800659280624064e-05
+tracado_via_Retorno Regulamentado;Declive;Reta,2.4574493361801298e-05
+tracado_via_Retorno Regulamentado;Reta;Declive,2.3848206691118935e-05
+tracado_via_Interseção de Vias;Reta;Aclive,2.3804750754280078e-05
+tracado_via_Viaduto;Interseção de Vias;Reta,2.3783617558780243e-05
+tracado_via_Desvio Temporário;Reta;Aclive,2.3537689759342293e-05
+tracado_via_Em Obras;Reta;Interseção de Vias,2.325580939318327e-05
+tracado_via_Aclive;Ponte;Curva;Viaduto,2.1782733763756914e-05
+tracado_via_Curva;Rotatória;Declive,2.177489010654964e-05
+tracado_via_Declive;Reta;Retorno Regulamentado,2.14725077867289e-05
+tracado_via_Declive;Ponte,2.0936368579727903e-05
+tracado_via_Viaduto;Reta;Declive,2.0360672945920134e-05
+tracado_via_Reta;Aclive;Retorno Regulamentado,2.032903297755248e-05
+tracado_via_Ponte;Declive;Reta,1.9738598155459764e-05
+tracado_via_Declive;Ponte;Curva,1.862923575344051e-05
+tracado_via_Curva;Declive;Interseção de Vias;Viaduto,1.8245279172436944e-05
+tracado_via_Rotatória;Desvio Temporário,1.8193069348533165e-05
+tracado_via_Viaduto;Reta;Retorno Regulamentado;Interseção de Vias,1.8133070060516654e-05
+tracado_via_Retorno Regulamentado;Aclive,1.8069266074530107e-05
+tracado_via_Desvio Temporário;Em Obras;Reta,1.7983811724597044e-05
+tracado_via_Declive;Viaduto;Retorno Regulamentado,1.794167360927549e-05
+tracado_via_Viaduto;Aclive,1.787765623145458e-05
+tracado_via_Interseção de Vias;Viaduto;Reta,1.7721865847756186e-05
+tracado_via_Interseção de Vias;Rotatória;Viaduto,1.7148297080355286e-05
+tracado_via_Declive;Curva;Desvio Temporário,1.6756337746144556e-05
+tracado_via_Interseção de Vias;Reta;Em Obras,1.657116672334481e-05
+tracado_via_Reta;Desvio Temporário;Aclive,1.623429935452417e-05
+tracado_via_Reta;Viaduto;Interseção de Vias,1.5598844329759634e-05
+tracado_via_Curva;Rotatória;Em Obras,1.552076843347727e-05
+tracado_via_Túnel;Reta,1.5433620158791504e-05
+tracado_via_Reta;Interseção de Vias;Declive;Retorno Regulamentado,1.5433374841032463e-05
+tracado_via_Declive;Em Obras;Desvio Temporário,1.5146841599272967e-05
+tracado_via_Retorno Regulamentado;Reta;Declive;Interseção de Vias,1.504746219484555e-05
+tracado_via_Reta;Retorno Regulamentado;Em Obras,1.4942256765217776e-05
+tracado_via_Aclive;Ponte,1.4770268949826025e-05
+tracado_via_Curva;Aclive;Rotatória,1.4444435879208726e-05
+tracado_via_Reta;Retorno Regulamentado;Rotatória,1.4283208755193325e-05
+tracado_via_Curva;Em Obras;Desvio Temporário,1.4259754354546881e-05
+tracado_via_Retorno Regulamentado;Interseção de Vias;Rotatória,1.3911099102091043e-05
+tracado_via_Reta;Rotatória;Retorno Regulamentado,1.3906093118781744e-05
+tracado_via_Desvio Temporário;Reta,1.3836501099086134e-05
+tracado_via_Desvio Temporário;Em Obras;Curva,1.3707865477084119e-05
+tracado_via_Viaduto;Rotatória,1.3698735937430928e-05
+tracado_via_Curva;Interseção de Vias;Aclive,1.366949354498016e-05
+tracado_via_Interseção de Vias;Rotatória;Reta;Viaduto;Retorno Regulamentado,1.3621435331360028e-05
+tracado_via_Retorno Regulamentado;Reta;Aclive,1.358496752492362e-05
+tracado_via_Em Obras;Interseção de Vias;Aclive,1.3481267088342068e-05
+tracado_via_Em Obras;Aclive,1.3264098779416853e-05
+tracado_via_Viaduto;Curva;Aclive,1.3143267985181073e-05
+tracado_via_Retorno Regulamentado;Curva;Viaduto,1.3020374462748784e-05
+tracado_via_Desvio Temporário;Rotatória;Em Obras,1.286631016299381e-05
+tracado_via_Viaduto;Rotatória;Interseção de Vias,1.275874350604064e-05
+tracado_via_Curva;Interseção de Vias;Rotatória;Em Obras;Declive,1.2743594039044119e-05
+tracado_via_Curva;Aclive;Retorno Regulamentado,1.2631946629215902e-05
+tracado_via_Interseção de Vias;Rotatória;Declive,1.2320358978880456e-05
+tracado_via_Declive;Desvio Temporário,1.2280388716501562e-05
+tracado_via_Em Obras;Aclive;Curva,1.2220656316914678e-05
+tracado_via_Declive;Em Obras;Viaduto,1.2213858333912492e-05
+tracado_via_Declive;Viaduto;Reta,1.2164516217037873e-05
+tracado_via_Em Obras;Interseção de Vias,1.2106199982091912e-05
+tracado_via_Declive;Rotatória;Retorno Regulamentado,1.2013145360786083e-05
+tracado_via_Aclive;Retorno Regulamentado,1.1845372766812488e-05
+tracado_via_Reta;Ponte;Interseção de Vias;Viaduto,1.1810510016389477e-05
+tracado_via_Curva;Declive;Retorno Regulamentado;Viaduto,1.1763633710384173e-05
+condicao_metereologica_Granizo,1.1761205632335873e-05
+tracado_via_Declive;Curva;Em Obras;Desvio Temporário;Ponte,1.1749015130193922e-05
+tracado_via_Interseção de Vias;Rotatória;Retorno Regulamentado,1.1292870006772069e-05
+tracado_via_Em Obras;Declive;Curva;Desvio Temporário,1.1173202167273405e-05
+tracado_via_Curva;Ponte;Aclive,1.101306724780193e-05
+tracado_via_Reta;Retorno Regulamentado;Declive,1.0971009475852415e-05
+tracado_via_Rotatória;Reta;Viaduto,1.0771474893394404e-05
+tracado_via_Viaduto;Declive;Reta,1.0484988313426857e-05
+tracado_via_Reta;Rotatória;Em Obras,1.0461784726703545e-05
+tracado_via_Retorno Regulamentado;Viaduto,1.0457302762762374e-05
+tracado_via_Declive;Interseção de Vias;Rotatória;Reta,1.009827197687744e-05
+tracado_via_Reta;Declive;Interseção de Vias;Retorno Regulamentado,9.958262393557615e-06
+tracado_via_Rotatória;Reta;Declive,9.583580152766876e-06
+tracado_via_Em Obras;Viaduto;Reta,9.575732951241388e-06
+tracado_via_Viaduto;Retorno Regulamentado;Curva,9.3096424373511e-06
+tracado_via_Interseção de Vias;Aclive;Retorno Regulamentado,9.032904491582278e-06
+tracado_via_Viaduto;Curva;Rotatória,8.77422872160201e-06
+tracado_via_Em Obras;Retorno Regulamentado,8.764895156370062e-06
+tracado_via_Viaduto;Declive;Curva,8.621971702279178e-06
+tracado_via_Reta;Aclive;Ponte,8.483160362158382e-06
+tracado_via_Curva;Retorno Regulamentado;Declive,8.481228358162599e-06
+tracado_via_Aclive;Reta;Ponte,8.38380756425062e-06
+tracado_via_Em Obras;Rotatória;Reta,8.359242347925779e-06
+tracado_via_Declive;Rotatória;Reta,8.253794687154905e-06
+tracado_via_Retorno Regulamentado;Declive,8.206320666636113e-06
+tracado_via_Reta;Interseção de Vias;Retorno Regulamentado;Rotatória,7.916169865974712e-06
+tracado_via_Em Obras;Rotatória;Retorno Regulamentado,7.832957310943254e-06
+tracado_via_Em Obras;Interseção de Vias;Rotatória,7.786728112983634e-06
+tracado_via_Interseção de Vias;Reta;Aclive;Viaduto,7.380221456826771e-06
+tracado_via_Reta;Interseção de Vias;Em Obras;Aclive,7.363139135217625e-06
+tracado_via_Curva;Interseção de Vias;Em Obras,7.29654658054626e-06
+tracado_via_Reta;Interseção de Vias;Declive;Viaduto,7.296296458885768e-06
+tracado_via_Aclive;Reta;Desvio Temporário,7.070501615706185e-06
+tracado_via_Curva;Rotatória;Retorno Regulamentado,7.0534788402636346e-06
+tracado_via_Curva;Interseção de Vias;Viaduto;Retorno Regulamentado,6.959015329516555e-06
+tracado_via_Em Obras;Ponte;Viaduto;Reta,6.916588502350733e-06
+tracado_via_Viaduto;Declive;Interseção de Vias,6.881499537788685e-06
+tracado_via_Rotatória;Aclive;Curva,6.767985566872969e-06
+tracado_via_Aclive;Desvio Temporário,6.696750977067229e-06
+tracado_via_Reta;Em Obras;Retorno Regulamentado,6.444882808661113e-06
+tracado_via_Aclive;Em Obras;Curva,6.429591283560399e-06
+tracado_via_Retorno Regulamentado;Rotatória;Declive,6.41586753496681e-06
+tracado_via_Interseção de Vias;Retorno Regulamentado;Declive,6.415046462582356e-06
+tracado_via_Retorno Regulamentado;Em Obras,6.351875988889261e-06
+tracado_via_Viaduto;Curva;Declive,6.240548993603511e-06
+tracado_via_Viaduto;Reta;Interseção de Vias,6.226163058189488e-06
+tracado_via_Em Obras;Reta;Viaduto;Aclive,6.100017155545796e-06
+tracado_via_Interseção de Vias;Ponte;Reta;Em Obras;Declive,5.997830326253775e-06
+tracado_via_Desvio Temporário;Em Obras;Reta;Aclive,5.972818104216792e-06
+tracado_via_Rotatória;Interseção de Vias;Retorno Regulamentado,5.912121588569735e-06
+tracado_via_Declive;Reta;Viaduto,5.909118658299282e-06
+tracado_via_Curva;Retorno Regulamentado;Interseção de Vias,5.807680995469461e-06
+tracado_via_Reta;Aclive;Interseção de Vias;Rotatória,5.787983211422111e-06
+tracado_via_Desvio Temporário;Curva;Declive,5.741760982526508e-06
+tracado_via_Retorno Regulamentado;Aclive;Reta,5.674206092468307e-06
+tracado_via_Curva;Aclive;Viaduto;Retorno Regulamentado,5.5248454868040884e-06
+tracado_via_Rotatória;Retorno Regulamentado;Reta;Interseção de Vias,5.48650514605955e-06
+tracado_via_Reta;Em Obras;Viaduto;Interseção de Vias,5.4711927449879066e-06
+tracado_via_Reta;Interseção de Vias;Desvio Temporário,5.317990623178778e-06
+tracado_via_Viaduto;Rotatória;Curva;Em Obras,5.289092114503133e-06
+tracado_via_Interseção de Vias;Rotatória;Em Obras,5.241895585047542e-06
+tracado_via_Ponte;Reta;Interseção de Vias,5.215019748252019e-06
+tracado_via_Reta;Interseção de Vias;Desvio Temporário;Em Obras,5.15525518914687e-06
+tracado_via_Curva;Desvio Temporário;Declive,5.143361278939208e-06
+tracado_via_Interseção de Vias;Rotatória;Curva,4.9905145035236685e-06
+tracado_via_Retorno Regulamentado;Interseção de Vias;Curva,4.923426607627728e-06
+tracado_via_Túnel;Curva,4.9160074289102736e-06
+tracado_via_Reta;Interseção de Vias;Rotatória;Declive,4.869558990380019e-06
+tracado_via_Ponte;Reta;Aclive,4.830231457856427e-06
+tracado_via_Desvio Temporário;Reta;Declive;Em Obras,4.809539959322616e-06
+tracado_via_Reta;Em Obras;Desvio Temporário;Ponte,4.8027991918485315e-06
+tracado_via_Curva;Viaduto;Aclive;Interseção de Vias,4.747217447247105e-06
+tracado_via_Retorno Regulamentado;Reta;Em Obras,4.722245742381423e-06
+tracado_via_Ponte;Reta;Declive;Interseção de Vias,4.674859718646468e-06
+tracado_via_Declive;Interseção de Vias;Rotatória,4.620464512952424e-06
+tracado_via_Declive;Rotatória;Reta;Retorno Regulamentado,4.582936462525314e-06
+tracado_via_Interseção de Vias;Viaduto;Curva;Aclive,4.551292154953862e-06
+tracado_via_Curva;Viaduto;Retorno Regulamentado,4.486070424541174e-06
+tracado_via_Em Obras;Desvio Temporário;Curva,4.4773228278392735e-06
+tracado_via_Desvio Temporário;Aclive;Reta;Em Obras,4.430348555031883e-06
+tracado_via_Reta;Interseção de Vias;Rotatória;Retorno Regulamentado,4.2242304794225384e-06
+tracado_via_Viaduto;Rotatória;Retorno Regulamentado;Interseção de Vias,4.192106910815602e-06
+tracado_via_Desvio Temporário;Curva,4.1118607927186e-06
+tracado_via_Reta;Aclive;Rotatória,4.10346333592242e-06
+tracado_via_Reta;Interseção de Vias;Declive;Desvio Temporário;Em Obras,4.053131751855893e-06
+tracado_via_Retorno Regulamentado;Rotatória;Interseção de Vias;Reta,3.979866866003466e-06
+tracado_via_Rotatória;Reta;Interseção de Vias;Declive,3.97207872740071e-06
+tracado_via_Túnel,3.936216826921048e-06
+tracado_via_Reta;Interseção de Vias;Viaduto;Em Obras,3.934216690934683e-06
+tracado_via_Declive;Interseção de Vias;Viaduto;Ponte,3.91154040575378e-06
+tracado_via_Rotatória;Desvio Temporário;Em Obras,3.878962605632461e-06
+tracado_via_Em Obras;Retorno Regulamentado;Interseção de Vias;Reta,3.7870952381001473e-06
+tracado_via_Em Obras;Curva;Aclive,3.7473189901357804e-06
+tracado_via_Reta;Viaduto;Retorno Regulamentado;Interseção de Vias,3.7345546357400638e-06
+tracado_via_Reta;Desvio Temporário;Declive,3.5730415985068254e-06
+tracado_via_Interseção de Vias;Reta;Retorno Regulamentado;Rotatória,3.567941671041986e-06
+tracado_via_Em Obras;Declive;Interseção de Vias;Reta,3.4855806904405365e-06
+tracado_via_Declive;Desvio Temporário;Reta;Interseção de Vias,3.469530537960621e-06
+tracado_via_Reta;Viaduto;Aclive;Em Obras,3.462099228690595e-06
+tracado_via_Viaduto;Aclive;Curva,3.4061779198164234e-06
+tracado_via_Rotatória;Declive;Reta,3.3912124809244448e-06
+tracado_via_Interseção de Vias;Retorno Regulamentado;Reta;Em Obras,3.3230502366887008e-06
+tracado_via_Declive;Túnel,3.31690028268613e-06
+tracado_via_Interseção de Vias;Reta;Aclive;Retorno Regulamentado,3.3146084462750493e-06
+tracado_via_Retorno Regulamentado;Reta;Túnel,3.3106587254084613e-06
+tracado_via_Ponte;Aclive;Reta,3.3086894304313343e-06
+tracado_via_Retorno Regulamentado;Curva;Aclive,3.2440324013972448e-06
+tracado_via_Interseção de Vias;Curva;Viaduto,3.226023374335085e-06
+tracado_via_Aclive;Retorno Regulamentado;Reta,3.2173852852859894e-06
+tracado_via_Viaduto;Rotatória;Curva;Interseção de Vias,3.1841901322355956e-06
+tracado_via_Declive;Curva;Em Obras,3.1528395296433595e-06
+tracado_via_Rotatória;Aclive,3.1392554085727584e-06
+tracado_via_Em Obras;Reta;Viaduto,3.136127432392198e-06
+tracado_via_Aclive;Viaduto;Curva,3.1012104024054072e-06
+tracado_via_Interseção de Vias;Reta;Túnel,3.0856554282000464e-06
+tracado_via_Viaduto;Curva;Retorno Regulamentado,2.9368097501625782e-06
+tracado_via_Viaduto;Reta;Rotatória,2.9314604669191186e-06
+tracado_via_Retorno Regulamentado;Declive;Curva,2.881973218618583e-06
+tracado_via_Aclive;Ponte;Curva,2.8585558521335656e-06
+tracado_via_Reta;Rotatória;Aclive,2.849430538201943e-06
+tracado_via_Reta;Aclive;Em Obras;Desvio Temporário,2.846646726274797e-06
+tracado_via_Em Obras;Interseção de Vias;Viaduto;Reta,2.8365285739428485e-06
+tracado_via_Reta;Interseção de Vias;Rotatória;Viaduto,2.7402330020465255e-06
+tracado_via_Declive;Interseção de Vias;Viaduto;Reta,2.686855267002683e-06
+tracado_via_Rotatória;Viaduto;Interseção de Vias,2.664921962925298e-06
+tracado_via_Em Obras;Curva;Retorno Regulamentado,2.653547536579666e-06
+tracado_via_Desvio Temporário;Aclive;Curva;Em Obras,2.579475290243668e-06
+tracado_via_Curva;Retorno Regulamentado;Viaduto,2.5723741414111564e-06
+tracado_via_Interseção de Vias;Reta;Em Obras;Declive,2.533623884591125e-06
+tracado_via_Reta;Retorno Regulamentado;Interseção de Vias;Rotatória,2.52666715025796e-06
+tracado_via_Em Obras;Rotatória;Curva,2.439143174361046e-06
+tracado_via_Aclive;Reta;Interseção de Vias;Em Obras,2.4308055320949687e-06
+tracado_via_Curva;Declive;Desvio Temporário;Em Obras,2.4146334276706823e-06
+tracado_via_Interseção de Vias;Retorno Regulamentado;Viaduto,2.376064358602917e-06
+condicao_metereologica_Neve,2.3453130283544236e-06
+tracado_via_Interseção de Vias;Declive;Rotatória,2.2335599437293624e-06
+tracado_via_Reta;Desvio Temporário;Aclive;Em Obras,2.2099383466080885e-06
+tracado_via_Desvio Temporário;Curva;Aclive;Em Obras,2.1549818905965266e-06
+tracado_via_Viaduto;Ponte,2.0753768995587413e-06
+tracado_via_Desvio Temporário;Reta;Aclive;Interseção de Vias,2.066157571448855e-06
+tracado_via_Curva;Aclive;Ponte,1.9998018504068e-06
+tracado_via_Rotatória;Declive;Reta;Interseção de Vias,1.9901401990133243e-06
+tracado_via_Interseção de Vias;Viaduto;Rotatória,1.9835266544202034e-06
+tracado_via_Interseção de Vias;Em Obras;Declive;Viaduto,1.976725309721644e-06
+tracado_via_Interseção de Vias;Em Obras;Desvio Temporário;Reta,1.858109108110441e-06
+tracado_via_Reta;Retorno Regulamentado;Viaduto;Interseção de Vias,1.8351174174731448e-06
+tracado_via_Ponte;Reta;Em Obras,1.8340355050997035e-06
+tracado_via_Retorno Regulamentado;Em Obras;Declive;Curva,1.8247114207896105e-06
+tracado_via_Retorno Regulamentado;Curva;Declive,1.818711821511731e-06
+tracado_via_Aclive;Interseção de Vias;Curva,1.79509245099143e-06
+tracado_via_Rotatória;Viaduto;Interseção de Vias;Retorno Regulamentado;Reta,1.776162409862445e-06
+tracado_via_Interseção de Vias;Em Obras;Declive,1.7659341058325972e-06
+tracado_via_Rotatória;Em Obras;Viaduto,1.7522889671462284e-06
+tracado_via_Curva;Viaduto;Interseção de Vias;Declive,1.7258788507808284e-06
+tracado_via_Reta;Em Obras;Túnel;Desvio Temporário,1.719627852210681e-06
+tracado_via_Reta;Em Obras;Viaduto;Aclive,1.702208176055825e-06
+tracado_via_Curva;Interseção de Vias;Viaduto,1.6915716897492215e-06
+tracado_via_Curva;Túnel,1.6901634324291618e-06
+tracado_via_Rotatória;Em Obras;Reta,1.6563685222053812e-06
+tracado_via_Reta;Declive;Interseção de Vias;Rotatória,1.6298025176849563e-06
+tracado_via_Curva;Ponte;Viaduto,1.6218165196765186e-06
+tracado_via_Curva;Rotatória;Declive;Viaduto,1.592711956538889e-06
+tracado_via_Declive;Interseção de Vias;Curva;Retorno Regulamentado,1.5867404597046068e-06
+tracado_via_Rotatória;Aclive;Retorno Regulamentado;Curva,1.5565051709815743e-06
+tracado_via_Interseção de Vias;Declive;Viaduto,1.5552065375335544e-06
+tracado_via_Declive;Reta;Rotatória,1.5487834238174565e-06
+tracado_via_Declive;Reta;Desvio Temporário;Em Obras,1.541126264878632e-06
+tracado_via_Retorno Regulamentado;Viaduto;Curva,1.5358728951180836e-06
+tracado_via_Interseção de Vias;Rotatória;Reta;Declive,1.5298548305671758e-06
+tracado_via_Interseção de Vias;Reta;Viaduto;Em Obras,1.510378354099005e-06
+tracado_via_Reta;Interseção de Vias;Aclive;Retorno Regulamentado,1.4597205499079326e-06
+tracado_via_Reta;Declive;Viaduto;Retorno Regulamentado,1.4219194357235523e-06
+tracado_via_Viaduto;Interseção de Vias;Curva,1.4041951051419273e-06
+tracado_via_Interseção de Vias;Retorno Regulamentado;Declive;Reta,1.3810445610144664e-06
+tracado_via_Desvio Temporário;Declive;Curva,1.3600201340478392e-06
+tracado_via_Retorno Regulamentado;Curva;Interseção de Vias;Aclive,1.3558853386287646e-06
+tracado_via_Viaduto;Em Obras;Aclive,1.3454982360987293e-06
+tracado_via_Em Obras;Declive;Desvio Temporário,1.3244358670527477e-06
+tracado_via_Ponte;Aclive,1.2946395483471003e-06
+tracado_via_Em Obras;Reta;Retorno Regulamentado,1.2892301469942938e-06
+tracado_via_Interseção de Vias;Reta;Declive;Rotatória,1.2842323817683224e-06
+tracado_via_Interseção de Vias;Reta;Rotatória;Em Obras,1.2467234685189295e-06
+tracado_via_Reta;Retorno Regulamentado;Aclive;Interseção de Vias,1.2466760185147115e-06
+tracado_via_Em Obras;Interseção de Vias;Curva;Rotatória,1.2258238821860383e-06
+tracado_via_Interseção de Vias;Aclive;Viaduto,1.2042749948255314e-06
+tracado_via_Interseção de Vias;Declive;Retorno Regulamentado;Viaduto,1.1993153466682974e-06
+tracado_via_Curva;Interseção de Vias;Retorno Regulamentado;Declive,1.1815014696052188e-06
+tracado_via_Curva;Interseção de Vias;Retorno Regulamentado;Viaduto,1.1387738420599528e-06
+tracado_via_Rotatória;Em Obras;Reta;Interseção de Vias,1.1290049657652456e-06
+tracado_via_Interseção de Vias;Curva;Rotatória;Em Obras;Viaduto,1.0650460483654042e-06
+tracado_via_Reta;Retorno Regulamentado;Aclive;Interseção de Vias;Em Obras,1.0574595844506274e-06
+tracado_via_Reta;Interseção de Vias;Viaduto;Declive,1.0323337390875715e-06
+tracado_via_Rotatória;Interseção de Vias;Retorno Regulamentado;Reta,1.0077701667725748e-06
+tracado_via_Declive;Reta;Interseção de Vias;Em Obras,9.616470969503108e-07
+tracado_via_Interseção de Vias;Aclive;Reta;Retorno Regulamentado;Rotatória,9.538344947505289e-07
+tracado_via_Rotatória;Interseção de Vias;Em Obras,9.46465419123594e-07
+tracado_via_Reta;Retorno Regulamentado;Viaduto,9.247652570018477e-07
+tracado_via_Rotatória;Aclive;Reta,9.167713478326045e-07
+tracado_via_Retorno Regulamentado;Aclive;Curva,9.110867760828754e-07
+tracado_via_Interseção de Vias;Reta;Desvio Temporário,8.874502313042681e-07
+tracado_via_Retorno Regulamentado;Ponte;Reta,8.749705072448397e-07
+tracado_via_Viaduto;Retorno Regulamentado;Interseção de Vias,8.645761451459967e-07
+tracado_via_Retorno Regulamentado;Aclive;Interseção de Vias,8.432305874346775e-07
+tracado_via_Declive;Em Obras;Desvio Temporário;Reta,8.264926032433809e-07
+tracado_via_Curva;Interseção de Vias;Viaduto;Rotatória,8.200551522635955e-07
+tracado_via_Aclive;Curva;Interseção de Vias;Rotatória,8.11291970244329e-07
+tracado_via_Em Obras;Desvio Temporário;Declive;Curva,8.028967925718865e-07
+tracado_via_Retorno Regulamentado;Interseção de Vias;Reta;Rotatória,7.857220232155783e-07
+tracado_via_Em Obras;Interseção de Vias;Desvio Temporário,7.648893131250464e-07
+tracado_via_Declive;Interseção de Vias;Ponte,7.476517488589593e-07
+tracado_via_Reta;Viaduto;Retorno Regulamentado,7.473835650750326e-07
+tracado_via_Interseção de Vias;Aclive;Reta;Viaduto,7.360981228515989e-07
+tracado_via_Reta;Aclive;Desvio Temporário;Viaduto,7.340140063642744e-07
+tracado_via_Retorno Regulamentado;Viaduto;Interseção de Vias,7.18220473132273e-07
+tracado_via_Declive;Interseção de Vias;Em Obras;Reta,7.088585329579908e-07
+tracado_via_Declive;Retorno Regulamentado;Curva,7.037032551175651e-07
+tracado_via_Viaduto;Interseção de Vias;Túnel,6.880146691636263e-07
+tracado_via_Retorno Regulamentado;Aclive;Viaduto;Curva,6.49255392814798e-07
+tracado_via_Curva;Desvio Temporário;Em Obras;Aclive,6.219903354398918e-07
+tracado_via_Em Obras;Rotatória;Viaduto,6.191228505575627e-07
+tracado_via_Em Obras;Declive;Reta;Desvio Temporário,6.130434572691483e-07
+tracado_via_Viaduto;Reta;Aclive;Em Obras,6.00332893369625e-07
+tracado_via_Interseção de Vias;Viaduto;Curva,5.982489839416679e-07
+tracado_via_Reta;Desvio Temporário;Retorno Regulamentado,5.961246393995547e-07
+tracado_via_Curva;Retorno Regulamentado;Rotatória,5.729484938695746e-07
+tracado_via_Desvio Temporário;Ponte;Em Obras,5.4797682341579e-07
+tracado_via_Reta;Viaduto;Túnel;Declive;Interseção de Vias,5.378860800044517e-07
+tracado_via_Rotatória;Curva;Em Obras,5.305126960561707e-07
+tracado_via_Rotatória;Reta;Retorno Regulamentado,5.28915312426032e-07
+tracado_via_Retorno Regulamentado;Túnel;Declive,5.228850485015883e-07
+tracado_via_Rotatória;Aclive;Retorno Regulamentado,4.918870376160175e-07
+tracado_via_Rotatória;Curva;Retorno Regulamentado,4.851571389184521e-07
+tracado_via_Reta;Em Obras;Desvio Temporário;Interseção de Vias,4.7036699513932607e-07
+tracado_via_Túnel;Reta;Interseção de Vias,4.5127771658201977e-07
+tracado_via_Aclive;Retorno Regulamentado;Interseção de Vias;Reta,4.1686166747922043e-07
+tracado_via_Declive;Retorno Regulamentado;Interseção de Vias,4.162567787453485e-07
+tracado_via_Interseção de Vias;Curva;Em Obras,4.0948105392081756e-07
+tracado_via_Em Obras;Viaduto;Reta;Túnel,4.0923707367533513e-07
+tracado_via_Interseção de Vias;Curva;Declive;Retorno Regulamentado,4.0807567881748873e-07
+tracado_via_Aclive;Reta;Rotatória,4.011239064923181e-07
+tracado_via_Rotatória;Retorno Regulamentado;Reta,3.959973806241398e-07
+tracado_via_Curva;Túnel;Viaduto,3.9492574872089353e-07
+tracado_via_Em Obras;Interseção de Vias;Curva;Desvio Temporário,3.8605596605977637e-07
+tracado_via_Rotatória;Declive;Viaduto,3.845897886324768e-07
+tracado_via_Declive;Retorno Regulamentado;Rotatória,3.8413717730492993e-07
+tracado_via_Desvio Temporário;Em Obras;Curva;Declive,3.8168605304086823e-07
+tracado_via_Desvio Temporário;Declive,3.594251138851779e-07
+tracado_via_Túnel;Interseção de Vias,3.4508912794127355e-07
+tracado_via_Curva;Rotatória;Viaduto,3.21294383380233e-07
+tracado_via_Retorno Regulamentado;Curva;Interseção de Vias,3.1405693465802177e-07
+tracado_via_Retorno Regulamentado;Interseção de Vias;Viaduto;Reta,3.1333973023957993e-07
+tracado_via_Interseção de Vias;Curva;Declive;Viaduto,3.093580220596745e-07
+tracado_via_Desvio Temporário;Reta;Declive;Ponte;Em Obras,3.0175969878901615e-07
+tracado_via_Retorno Regulamentado;Interseção de Vias;Em Obras,2.778543794297745e-07
+tracado_via_Reta;Declive;Desvio Temporário;Em Obras,2.7425135794405444e-07
+tracado_via_Interseção de Vias;Retorno Regulamentado;Reta;Declive,2.7263641473220847e-07
+tracado_via_Interseção de Vias;Reta;Viaduto;Rotatória,2.6915652828282903e-07
+tracado_via_Aclive;Reta;Desvio Temporário;Em Obras,2.518185280637232e-07
+tracado_via_Aclive;Curva;Rotatória,2.5163801785594114e-07
+tracado_via_Retorno Regulamentado;Interseção de Vias;Curva;Rotatória,2.5037436950651983e-07
+tracado_via_Viaduto;Declive;Em Obras,2.435380446399207e-07
+tracado_via_Rotatória;Retorno Regulamentado;Interseção de Vias,2.3346263991082844e-07
+tracado_via_Desvio Temporário;Declive;Retorno Regulamentado,2.0783483392693906e-07
+tracado_via_Interseção de Vias;Desvio Temporário,1.9709566989214348e-07
+tracado_via_Curva;Túnel;Declive;Retorno Regulamentado,1.6818221326575068e-07
+tracado_via_Declive;Interseção de Vias;Viaduto,1.605746788126785e-07
+tracado_via_Rotatória;Viaduto;Declive,1.4447909041832558e-07
+tracado_via_Reta;Declive;Interseção de Vias;Rotatória;Ponte;Em Obras,1.437489168400329e-07
+tracado_via_Reta;Rotatória;Viaduto,9.872385380440546e-08
+tracado_via_Em Obras;Túnel;Reta;Desvio Temporário,9.040407420271534e-08
+tracado_via_Interseção de Vias;Aclive;Reta;Rotatória,8.809223544997591e-08
+tracado_via_Rotatória;Viaduto;Reta,6.338484935229411e-08
+tracado_via_Reta;Ponte;Viaduto,4.842495327541176e-08
+tracado_via_Rotatória;Curva;Aclive;Interseção de Vias,3.8667385306975406e-08
